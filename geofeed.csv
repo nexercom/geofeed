@@ -1,0 +1,4 @@
+# prefix,country_code,region_code,city,postal
+38.147.152.0/24,DO,DO-11,Higuey,23000
+38.147.153.0/24,DO,DO-11,Higuey,23000
+2803:9150::/32,DO,DO-11,Higuey,23000
